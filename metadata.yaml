@@ -1,0 +1,36 @@
+_repo: Essays-in-Rebellion_11079
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nevinson, Henry Woodd
+    alias: Nevinson, H. W. (Henry Woodd)
+    birthdate: 1856
+    deathdate: 1941
+    gutenberg_agent_id: '3828'
+    url: http://www.gutenberg.org/2009/agents/3828
+description: Cover -- Contents.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11079'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays'
+- GITenberg
+tableOfContents: The catfish -- Rebellion -- "Either cowards or unhappy" -- Deeds
+  not words -- The burning book -- "Where cruel rage" -- The chief of rebels -- The
+  iron crown -- "The imperial race" -- The great unknown -- The worth of a penny --
+  "Fix bayonets!" -- "Our fathers have told us" -- The Grand Jury -- A new conscription
+  -- The last of the Runnymedes -- Children of the state -- The judgment of Paris
+  -- Abdul's retreat -- "Natives" -- Under the yoke -- Black and white -- Peace and
+  war in the balance -- The maid -- The heroine -- The penalty of virtue -- "The daily
+  round" -- The charm of commonplace -- The priest of Nemi -- The underworld of time
+  -- Mental eugenics -- The medicine of the mind -- The last fence -- The element
+  of calm -- "The king of terrors" -- Struldbrugs -- "Liberté, Liberté, chérie!" --
+  A farewell to Fleet Street.
+title: Essays in Rebellion
+url: http://www.gutenberg.org/ebooks/11079
